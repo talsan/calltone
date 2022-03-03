@@ -20,8 +20,8 @@ Provides examples and practical considerations at every level of the process -- 
 
 ### 2. Sentiment Modelling Notebook
 [`sentiment_models.ipynb`](https://github.com/talsan/calltone/blob/master/notebooks/sentiment_models.ipynb) -- how to build 3 sentiment models (finbert, Loughran & Mcdonald, Naive Bayes). Includes pre-processing steps like tokenization and lemmatization.
-#### Top Calls from 2019 - 2020
-![Sentiment Model Example](https://github.com/talsan/calltone/blob/master/img/example_output_sentiment_model.png)
+#### Top/Bottom Calls from 9/2018 to 9/2020
+![Sentiment Model Example](https://github.com/talsan/calltone/blob/master/img/example_sentiment_models.png)
 
 
 ### 3. Quantitative Analysis Notebook
