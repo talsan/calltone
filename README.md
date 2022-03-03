@@ -6,7 +6,6 @@ Provides examples and practical considerations at every level of the process -- 
 
 #### [You can download the full presentation here.](https://github.com/talsan/calltone/raw/master/notebooks/CFA%20of%20Columbus%20-%20Hands%20on%20Data-Science.pdf)
 
-
 ## Process Overview
 1. [Data Collection](https://github.com/talsan/calltone/blob/master/notebooks/Data%20Collection.ipynb) - text from conference calls, universe, sectors, returns, growth/value indicies
 2. [Sentiment Modeling](https://github.com/talsan/calltone/blob/master/notebooks/sentiment_models.ipynb) - Finbert + Loughran & Mcdonald + Naive Bayes (via Textblob)
@@ -15,8 +14,8 @@ Provides examples and practical considerations at every level of the process -- 
 ## Notebooks
 ### 1. Data Collection Notebook
 [`Data_Collection.ipynb`](https://github.com/talsan/calltone/blob/master/notebooks/Data%20Collection.ipynb) -- steps required to build the corpus and other relevant data for this project. Data includes text from conference calls ([detailed in a seperate repo](https://github.com/talsan/foolcalls)), universe constituents, sector constituents, returns, growth/value indices.
-#### Scraping Fool.com
-![Data Collection Example](https://github.com/talsan/calltone/blob/master/img/fool.com%20flow.png)
+#### Architecture Overview
+![Architecture Overview](https://github.com/talsan/calltone/blob/master/img/architecture_overview.png)
 
 
 ### 2. Sentiment Modelling Notebook
