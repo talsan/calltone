@@ -1,12 +1,16 @@
 # Hands-On Guide for Sentiment Analysis of Conference Calls
-###### These notebooks were part of a CFA Presentation titled "Hands-On Data Science in Investment Management," presented at the CFA Columbus Society.
-Walks you throgh how to extract sentiment from quarterly conference calls, comparing three different approaches: Finbert vs Loughran Mcdonald vs Naive Bayes.
+Walks you through how to extract sentiment from quarterly conference calls, comparing three different approaches: Finbert vs Loughran Mcdonald vs Naive Bayes.
 Provides examples and practical considerations at every level of the process -- from data-collection to sentiment modeling to quantitative analysis.
+
+**These notebooks were part of a larger presentation titled "Hands-On Data Science in Investment Management," presented at the Columbus CFA Society.**
+
+#### [You can download the full presentation here.](https://github.com/talsan/calltone/raw/master/notebooks/CFA%20of%20Columbus%20-%20Hands%20on%20Data-Science.pdf)
+
 
 ## Process Overview
 1. [Data Collection](https://github.com/talsan/calltone/blob/master/notebooks/Data%20Collection.ipynb) - text from conference calls, universe, sectors, returns, growth/value indicies
 2. [Sentiment Modeling](https://github.com/talsan/calltone/blob/master/notebooks/sentiment_models.ipynb) - Finbert + Loughran & Mcdonald + Naive Bayes (via Textblob)
-3. [Quantitative Analysis](https://github.com/talsan/calltone/blob/master/notebooks/sentiment_analysis.ipynb)- Risk and Return Characteristics
+3. [Quantitative Analysis](https://github.com/talsan/calltone/blob/master/notebooks/sentiment_analysis.ipynb) - Risk and Return Characteristics
 
 ## Notebooks
 ### 1. Data Collection Notebook
